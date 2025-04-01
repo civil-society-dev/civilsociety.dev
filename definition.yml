@@ -1,0 +1,68 @@
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: civilsocietydev
+  # namespace: civilsociety-dev
+  annotations:
+    traefik.ingress.kubernetes.io/router.entrypoints: websecure
+    traefik.ingress.kubernetes.io/router.tls: "true"
+    cert-manager.io/cluster-issuer: k3s-ca-cluster-issuer
+spec:
+  tls:
+  - hosts:
+    - civilsociety.dev
+    secretName: k3s-ca-civilsocietydev-tls
+  rules:
+  - host: "civilsociety.dev"
+    http:
+      paths:
+      - pathType: Prefix
+        path: /
+        backend:
+          service:
+            name: civilsocietydev-service
+            port:
+              name: http
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: civilsocietydev-service
+  # namespace: civilsociety-dev
+spec:
+  ports:
+    - port: 80
+      protocol: TCP
+  selector:
+    app: civilsocietydev
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: civilsocietydev-nginx
+  # namespace: civilsociety-dev
+  labels:
+    app: civilsocietydev
+    version: v1
+    tier: backend
+    environment: production
+    owner: payneio
+    app.kubernetes.io/instance: civilsocietydev
+    app.kubernetes.io/managed-by: kubectl
+spec:
+  selector:
+    matchLabels:
+      app: civilsocietydev
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: civilsocietydev
+    spec:
+      containers:
+      - name: civilsocietydev
+        image: payneio/civilsociety.dev:latest
+        ports:
+        - containerPort: 80
