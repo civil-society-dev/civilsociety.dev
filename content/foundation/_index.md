@@ -19,12 +19,12 @@ The Civil Society Technology Foundation works to achieve this vision through:
 ## Who We Are
 
 - [Charter](/foundation/charter) - The comprehensive founding document for the organization, including structure, governance, and strategic focus areas
-- [Mission Statement](/foundation/mission-statement) - Our concise mission and approach to digital sovereignty
-- [Core Principles](/foundation/core-principles) - Detailed explanations of our 11 guiding principles with practical implications
+- [Mission Statement](/foundation/mission_statement) - Our concise mission and approach to digital sovereignty
+- [Core Principles](/foundation/core_principles) - Detailed explanations of our 11 guiding principles with practical implications
 
 ## What We Believe
 
 - [The Importance of Independent Technology](/foundation/independent-technology) - Cornerstone essay on why independent technology matters for civil society
-- [Why Digital Sovereignty Matters](/foundation/why-digital-sovereignty-matters) - Accessible primer on digital sovereignty and its importance
-- [Arguments Against Centralization](/foundation/arguments-against-centralization) - Comprehensive resource categorizing various arguments against digital centralization
-- [Position Statements](/foundation/position-statements) - Our formal positions on key issues affecting digital sovereignty
+- [Why Digital Sovereignty Matters](/foundation/why_digital_sovereignty_matters) - Accessible primer on digital sovereignty and its importance
+- [Arguments Against Centralization](/foundation/arguments_against_centralization) - Comprehensive resource categorizing various arguments against digital centralization
+- [Position Statements](/foundation/position_statements) - Our formal positions on key issues affecting digital sovereignty

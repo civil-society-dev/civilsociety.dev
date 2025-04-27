@@ -1,0 +1,135 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+
+[[main]]
+name = "Getting Started"
+pageRef = "getting-started"
+weight = 20
+
+# About
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 30
+
+[[main]]
+name = "Charter"
+pageRef = "charter"
+parent = "About"
+weight = 10
+
+[[main]]
+name = "Mission Statement"
+pageRef = "mission-statement"
+parent = "About"
+weight = 20
+
+[[main]]
+name = "Core Principles"
+pageRef = "core-principles"
+parent = "About"
+weight = 30
+
+[[main]]
+name = "The Importance of Independent Technology"
+pageRef = "independent-technology"
+parent = "About"
+weight = 40
+
+[[main]]
+name = "Why Digital Sovereignty Matters"
+pageRef = "why-digital-sovereignty-matters"
+parent = "About"
+weight = 50
+
+[[main]]
+name = "Arguments Against Centralization"
+pageRef = "arguments-against-centralization"
+parent = "About"
+weight = 60
+
+[[main]]
+name = "Position Statements"
+pageRef = "position-statements"
+parent = "About"
+weight = 70
+
+[[main]]
+name = "Governance"
+pageRef = "projects/governance"
+parent = "About"
+weight = 80
+
+[[main]]
+
+# Projects
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 40
+
+[[main]]
+name = "Sovereign Cloud"
+parent = "Projects"
+pageRef = "projects/sovereign-cloud"
+weight = 20
+
+[[main]]
+name = "Learning"
+pageRef = "learning"
+weight = 90
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+name = "Contribute"
+pageRef = "contribute"
+weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20

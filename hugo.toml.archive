@@ -1,39 +1,40 @@
 baseURL = 'https://civilsociety.dev/'
 languageCode = 'en-us'
 title = 'Civil Society .dev'
-theme = 'ananke'
+# theme = 'ananke'
+theme = 'blowfish'
 copyright = 'CivilSociety.dev'
 
 [menus]
-  [[menus.main]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 20
-  [[menus.main]]
-    name = 'Contribute'
-    pageRef = '/contribute'
-    weight = 30
-  [[menus.main]]
-    name = 'Projects'
-    pageRef = '/projects'
-    weight = 40
-  [[menus.main]]
-    name = 'Learning'
-    pageRef = '/learning'
-    weight = 50
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+[[menus.main]]
+name = 'Contribute'
+pageRef = '/contribute'
+weight = 30
+[[menus.main]]
+name = 'Projects'
+pageRef = '/projects'
+weight = 40
+[[menus.main]]
+name = 'Learning'
+pageRef = '/learning'
+weight = 50
 
-  [[menus.footer]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 10
-  [[menus.footer]]
-    name = 'Terms'
-    pageRef = '/terms'
-    weight = 20
-  [[menus.footer]]
-    name = 'Privacy'
-    pageRef = '/privacy'
-    weight = 20
+[[menus.footer]]
+name = 'About'
+pageRef = '/about'
+weight = 10
+[[menus.footer]]
+name = 'Terms'
+pageRef = '/terms'
+weight = 20
+[[menus.footer]]
+name = 'Privacy'
+pageRef = '/privacy'
+weight = 20
 
 [params]
 # mainSections = ["post"]
