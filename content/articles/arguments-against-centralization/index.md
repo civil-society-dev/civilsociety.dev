@@ -1,6 +1,7 @@
-+++
-title = 'Arguments Against Centralization'
-+++
+---
+title: Arguments Against Centralization
+date: 2025-07-06
+---
 
 ## Executive Summary
 

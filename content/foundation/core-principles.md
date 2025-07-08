@@ -1,7 +1,7 @@
-+++
-title = 'Core Principles'
-+++
-
+---
+title: Core Principles
+date: 2025-07-06
+---
 The Civil Society Technology Foundation operates according to the following core principles that guide all our work, partnerships, and initiatives.
 
 ## 1. Sovereignty by Design

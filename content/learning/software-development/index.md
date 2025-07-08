@@ -1,6 +1,7 @@
-+++
-title = 'Software Development: Building Digital Infrastructure for Civil Society'
-+++
+---
+title: "Software Development: Building Digital Infrastructure for Civil Society"
+date: 202-01-15
+---
 
 ## Introduction
 

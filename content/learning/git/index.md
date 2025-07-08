@@ -1,6 +1,7 @@
-+++
-title = 'Git: Distributed Version Control for Digital Independence'
-+++
+---
+title: "Git: Distributed Version Control for Digital Independence"
+date: 2025-01-15
+---
 
 ## Introduction
 

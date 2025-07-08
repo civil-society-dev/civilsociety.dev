@@ -1,7 +1,7 @@
-+++
-title = 'Governance'
-weight = 10
-+++
+---
+title: 'Governance'
+date: 2025-01-15
+---
 
 Transparency is paramount.
 

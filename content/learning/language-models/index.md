@@ -1,6 +1,7 @@
-+++
-title = 'Language Models: Understanding AI in the Context of Civil Society'
-+++
+---
+title: "Language Models: Understanding AI in the Context of Civil Society"
+date: 2025-01-15
+---
 
 ## Introduction
 

@@ -1,6 +1,7 @@
-+++
-title = 'Why Digital Sovereignty Matters'
-+++
+---
+title: Why Digital Sovereignty Matters
+date: 2025-07-06
+---
 
 ## What Is Digital Sovereignty?
 
@@ -186,7 +187,7 @@ Achieving greater digital sovereignty isn't an all-or-nothing proposition. It's 
 4. **Build community infrastructure**: Partner with similar organizations to share resources
 5. **Center sovereignty in planning**: Make digital autonomy a strategic priority
 
-The Civil Society Technology Foundation's Sovereign Cloud project provides a reference implementation for organizations seeking to regain digital sovereignty. It demonstrates that practical steps toward greater independence are possible today, even with limited resources.
+The Civil Society Technology Foundation's Wild Cloud project provides a reference implementation for organizations seeking to regain digital sovereignty. It demonstrates that practical steps toward greater independence are possible today, even with limited resources.
 
 ## Conclusion
 

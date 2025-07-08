@@ -1,6 +1,7 @@
-+++
-title = 'The Internet: Infrastructure for Civil Society'
-+++
+---
+title: "The Internet: Infrastructure for Civil Society"
+date: 2025-01-15
+---
 
 ## Introduction
 
@@ -256,7 +257,7 @@ The Civil Society Technology Foundation works toward an Internet that serves civ
 
 ### 1. Self-Hosted Infrastructure
 
-Our Sovereign Cloud project demonstrates how civil society organizations can regain control over their digital infrastructure by running their own services on hardware they control. This approach:
+Our Wild Cloud project demonstrates how civil society organizations can regain control over their digital infrastructure by running their own services on hardware they control. This approach:
 
 - Reduces dependency on commercial platforms
 - Enhances privacy and security

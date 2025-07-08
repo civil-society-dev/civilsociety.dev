@@ -5,3 +5,5 @@
 
 # Hugo cache
 /.hugo_build.lock
+
+.working

@@ -1,6 +1,7 @@
-+++
-title = 'Linux: The Operating System for Digital Sovereignty'
-+++
+---
+title: "Linux: The Operating System for Digital Sovereignty"
+date: 2025-01-15
+---
 
 ## Introduction
 
@@ -128,7 +129,7 @@ Linux comes in many "distributions" (or "distros")—different versions packaged
 - **Armbian**: For single-board computers and low-cost infrastructure
 - **OpenWrt**: For network devices and community networks
 
-The Civil Society Technology Foundation's Sovereign Cloud project uses lightweight Linux distributions as the foundation for self-hosted infrastructure, allowing organizations to run essential services on hardware they control.
+The Civil Society Technology Foundation's Wild Cloud project uses lightweight Linux distributions as the foundation for self-hosted infrastructure, allowing organizations to run essential services on hardware they control.
 
 ## Common Myths About Linux
 

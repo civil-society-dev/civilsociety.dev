@@ -15,5 +15,12 @@ hugo server
 hugo build
 docker build -t payneio/civilsociety.dev . --file ./Dockerfile
 docker push payneio/civilsociety.dev
-kubectl apply -f definition.yml
+
+# From payne-cloud
+
+# First time...
+bin/wild-app-deploy civilsociety
+
+# Update...
+kubectl rollout restart deployment civilsociety -n civilsociety
 ```

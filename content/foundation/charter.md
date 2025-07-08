@@ -1,6 +1,7 @@
-+++
-title = 'Charter of Civil Society Technology Foundation'
-+++
+---
+title: Charter of the Civil Society Technology Foundation
+date: 2025-07-06
+---
 
 ## Purpose
 

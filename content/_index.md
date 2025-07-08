@@ -1,15 +1,21 @@
-+++
-title = 'Welcome to CivilSociety.dev'
-+++
+---
+title: 'Welcome to CivilSociety.dev'
+---
 
-[The Importance of Independent Technology](/foundation/independent-technology) - Cornerstone essay on why independent technology matters for civil society
+As civil society organizations become increasingly dependent on digital tools, the question of who controls that technology becomes a matter of democratic importance.
 
-[Why Digital Sovereignty Matters](/foundation/why-digital-sovereignty-matters) - Accessible primer on digital sovereignty and its importance
+The Civil Society Technology Foundation develops and disseminates open-source, self-hosted technologies that enable genuine digital sovereignty. We provide the tools, knowledge, and community support necessary for civil society to operate independently of surveillance-based platforms and extractive business models.
 
-[Arguments Against Centralization](/foundation/arguments-against-centralization) - Comprehensive resource categorizing various arguments against digital centralization
+Our work spans software development, educational resources, and community engagement—creating pathways to technological self-determination for organizations that can't afford to compromise their values.
 
-[Position Statements](/foundation/position-statements) - Our formal positions on key issues affecting digital sovereignty
+{{< button href="/foundation/" target="_self" >}}
+Learn More
+{{< /button >}}
 
-[Getting started](/learning/getting-started)
+<div class="flex flex-col gap-8">
+{{< article link="/articles/independent-technology/" >}}
+{{< article link="/articles/why-digital-sovereignty-matters/" >}}
+{{< article link="/articles/arguments-against-centralization/" >}}
+</div>
 
-<!-- <a class="f6 link dim ba ph3 pv2 mb2 dib black" href="/learning/getting-started">Getting Started</a> -->
+

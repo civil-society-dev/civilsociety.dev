@@ -1,14 +1,15 @@
-+++
-title = 'Sovereign Cloud'
-+++
+---
+title: Wild Cloud
+date: 2025-07-06
+---
 
-The Sovereign Cloud is the Civil Society Technology Foundation's reference implementation for personal and organizational self-hosted infrastructure. This project empowers individuals and organizations to run their own digital services without dependency on centralized corporate platforms.
+Wild Cloud is the Civil Society Technology Foundation's reference implementation for personal and organizational self-hosted infrastructure. This project empowers individuals and organizations to run their own digital services without dependency on centralized corporate platforms.
 
 ## Overview
 
-The Sovereign Cloud provides a complete, accessible solution for operating essential digital services on infrastructure you control. It combines carefully selected open-source components into a cohesive system that balances security, usability, and maintainability.
+Wild Cloud provides a complete, accessible solution for operating essential digital services on infrastructure you control. It combines carefully selected open-source components into a cohesive system that balances security, usability, and maintainability.
 
-By deploying the Sovereign Cloud, organizations can:
+By deploying Wild Cloud, organizations can:
 
 - Host their own email, calendar, file storage, website, and collaboration tools
 - Maintain full control over their data and communications
@@ -20,7 +21,7 @@ The Soverign Cloud project aims to start you with a simple self-hosted cloud sol
 
 ### Architecture
 
-The Soverign cloud allows individuals and organizations (cloud admins) to install and manage a full Kubernetes cluster (using K3s) made of one or multiple computers on their own premises. Kubernetes manages much of the complexity of maintaining the health of your cloud and managing the applications deployed in it.
+Wild Cloud allows individuals and organizations (cloud admins) to install and manage a full Kubernetes cluster (using K3s) made of one or multiple computers on their own premises. Kubernetes manages much of the complexity of maintaining the health of your cloud and managing the applications deployed in it.
 
 ### Applications
 
@@ -37,13 +38,14 @@ Admins can deploy various applications into their cloud, including:
 
 ## Getting Started
 
-The Soverign Cloud project is currently being built out. When v1 is ready, it will be freely available on GitHub. Instructions for getting started with your cloud will be included in the repository after it is cloned.
+The Wild Cloud project is currently being built out on GitHub.
 
-See our [Tech Notes](tech-notes) page for more information on current development.
+{{< github repo="civil-society-dev/wild-cloud" showThumbnail=true >}}
+
 
 ## Community Support
 
-The Sovereign Cloud is supported by a community of practitioners who share knowledge, troubleshooting tips, and enhancements. The Civil Society Technology Foundation provides:
+Wild Cloud is supported by a community of practitioners who share knowledge, troubleshooting tips, and enhancements. The Civil Society Technology Foundation provides:
 
 - Documentation and tutorials
 - Installation guides for different environments
@@ -53,7 +55,7 @@ The Sovereign Cloud is supported by a community of practitioners who share knowl
 
 ## Philosophy
 
-The Sovereign Cloud embodies the Civil Society Technology Foundation's core principles:
+Wild Cloud embodies the Civil Society Technology Foundation's core principles:
 
 - **Sovereignty by Design**: Users control their data and computing environment
 - **Open Source, Always**: All components are free to use, study, modify, and share

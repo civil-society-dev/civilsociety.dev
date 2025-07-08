@@ -1,6 +1,7 @@
-+++
-title = 'The Importance of Independent Technology in Civil Society'
-+++
+---
+title: The Importance of Independent Technology in Civil Society
+date: 2025-07-06
+---
 
 ## Introduction
 
@@ -170,11 +171,11 @@ Despite these challenges, AI also presents significant opportunities for digital
 
 The path we choose with AI—toward further centralization or toward democratization—will significantly shape the future of digital self-determination. By supporting open, efficient, and community-governed approaches to AI, we can ensure that these powerful tools enhance rather than undermine human agency and collective well-being.
 
-## Case Study: The Sovereign Cloud
+## Case Study: Wild Cloud
 
-The Civil Society Technology Foundation's Sovereign Cloud project exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society organizations can regain digital sovereignty through practical, accessible tools.
+The Civil Society Technology Foundation's Wild Cloud project exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society organizations can regain digital sovereignty through practical, accessible tools.
 
-The Sovereign Cloud provides:
+Wild Cloud provides:
 
 - **Self-Hosted Services**: Organizations can run their own email, calendar, file storage, website, and collaboration tools on infrastructure they control, reducing dependency on corporate platforms.
 

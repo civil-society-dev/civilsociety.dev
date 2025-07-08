@@ -1,6 +1,7 @@
-+++
-title = 'Open Source: The Foundation of Digital Freedom'
-+++
+---
+title: "Open Source: The Foundation of Digital Freedom"
+date: 2025-01-15
+---
 
 ## Introduction
 
@@ -108,9 +109,9 @@ Despite its importance, several misconceptions persist about open source:
 
 **Reality**: Open source licenses give you the right to modify your own copy, not to force changes on others. This means you maintain control over your specific implementation while benefiting from the freedom to adapt it as needed.
 
-## Open Source in Practice: The Sovereign Cloud
+## Open Source in Practice: Wild Cloud
 
-The Civil Society Technology Foundation's Sovereign Cloud project demonstrates open source principles in action. This reference implementation for self-hosted infrastructure:
+The Civil Society Technology Foundation's Wild Cloud project demonstrates open source principles in action. This reference implementation for self-hosted infrastructure:
 
 - Uses only open source components that can be freely inspected and modified
 - Enables organizations to maintain full control over their infrastructure
@@ -118,7 +119,7 @@ The Civil Society Technology Foundation's Sovereign Cloud project demonstrates o
 - Provides adaptable solutions that respect the diversity of civil society needs
 - Builds capacity for technological self-determination rather than dependency
 
-By combining carefully selected open source tools into a cohesive system, the Sovereign Cloud shows how open source can address practical needs while embodying the values of digital freedom.
+By combining carefully selected open source tools into a cohesive system, Wild Cloud shows how open source can address practical needs while embodying the values of digital freedom.
 
 ## Practical Steps Toward Open Source Adoption
 
