@@ -1,6 +1,7 @@
 ---
 title: Core Principles
 date: 2025-07-06
+weight: 80
 ---
 The Civil Society Technology Foundation operates according to the following core principles that guide all our work, partnerships, and initiatives.
 

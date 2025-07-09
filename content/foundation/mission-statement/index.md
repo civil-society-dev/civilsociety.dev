@@ -1,6 +1,7 @@
 ---
 title: Mission Statement
 date: 2025-07-06
+weight: 90
 ---
 
 The Civil Society Technology Foundation (CSTF) empowers individuals and communities to reclaim digital sovereignty through the development and dissemination of open-source, self-hosted technologies.

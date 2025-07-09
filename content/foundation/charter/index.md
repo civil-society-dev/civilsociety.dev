@@ -1,11 +1,14 @@
 ---
 title: Charter of the Civil Society Technology Foundation
 date: 2025-07-06
+weight: 100
+summary: The foundational document establishing the purpose, vision, mission, principles, and strategic focus of the Civil Society Technology Foundation.
+showDate: true
 ---
 
 ## Purpose
 
-The Civil Society Technology Foundation (CSTF) empowers individuals and communities to reclaim digital sovereignty through open-source tools, self-hosted infrastructure, and transparent governance. We exist to create a world where technology serves people — not corporations or governments.
+To empower civil society through equitable access to technology, digital literacy, and responsible innovation, advancing human rights and sustainable development in the digital age.
 
 ## Vision
 
@@ -52,7 +55,7 @@ Through accessible tools, educational resources, and community engagement, we cu
 11. **Critical Adoption over Blind Use**  
     Pragmatism means understanding trade-offs. Users should know what rights they give up — and why.
 
-_Expanded explanations of these principles can be found in our [Core Principles](/foundation/core_principles) document._
+_Expanded explanations of these principles can be found in our [Core Principles](/foundation/core-principles) document._
 
 ## Strategic Focus
 

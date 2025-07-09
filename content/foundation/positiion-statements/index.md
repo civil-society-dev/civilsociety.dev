@@ -1,6 +1,7 @@
 ---
 title: Position Statements
 date: 2025-07-06
+weight: 60
 ---
 
 The Civil Society Technology Foundation (CSTF) holds the following positions regarding technology, digital rights, and civil society. These statements represent our core beliefs and guide our work.
