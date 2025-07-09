@@ -2,7 +2,15 @@
 title: "Welcome to CSTF!"
 ---
 
-{{< figure src="/cstf-logo.svg" alt="CSTF Logo" class="w-48 mx-auto" >}}
+<!-- Light mode image -->
+<div class="dark:hidden">
+  <img src="/cstf-full-logo.svg" alt="CSTF" class="w-84 mx-auto" />
+</div>
+
+<!-- Dark mode image -->
+<div class="hidden dark:block">
+  <img src="/cstf-full-logo-light.svg" alt="CSTF" class="w-84 mx-auto" />
+</div>
 
 
 As civil society organizations become increasingly dependent on digital tools, the question of who controls that technology becomes a matter of democratic importance.
