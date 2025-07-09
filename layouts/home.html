@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article class="max-w-full flex flex-col items-center justify-center">
+    <header>
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+    </header>
+    <section class="mt-6 prose dark:prose-invert">
+      {{ .Content }}
+    </section>
+    <section>
+      {{ partial "recent-articles/main.html" . }}
+    </section>
+    <footer class="pt-8">
+    </footer>
+  </article>
+  
+{{ end }}
+

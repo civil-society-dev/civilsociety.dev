@@ -67,3 +67,10 @@ googleAnalytics = "G-606W7SWX5E"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true

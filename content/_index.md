@@ -1,6 +1,9 @@
 ---
-title: 'Welcome to CivilSociety.dev'
+title: "Welcome to CSTF!"
 ---
+
+{{< figure src="/cstf-logo.svg" alt="CSTF Logo" class="w-48 mx-auto" >}}
+
 
 As civil society organizations become increasingly dependent on digital tools, the question of who controls that technology becomes a matter of democratic importance.
 
@@ -12,10 +15,9 @@ Our work spans software development, educational resources, and community engage
 Learn More
 {{< /button >}}
 
-<div class="flex flex-col gap-8">
+{{< div class="flex flex-col gap-8 pt-16" >}}
 {{< article link="/articles/independent-technology/" >}}
 {{< article link="/articles/why-digital-sovereignty-matters/" >}}
 {{< article link="/articles/arguments-against-centralization/" >}}
-</div>
-
+{{< /div >}}
 

@@ -9,14 +9,18 @@ The **Civil Society Technology Foundation (CSTF)** is a community-driven organiz
 
 ## Who We Are
 
-{{< article link="/foundation/charter/" >}}
-{{< article link="/foundation/mission-statement/" >}}
-{{< article link="/foundation/core-principles/" >}}
-{{< article link="/foundation/position-statements/" >}}
-{{< article link="/projects/governance/" >}}
+{{< div class="flex flex-col gap-10" >}}
+  {{< article link="/foundation/charter/" >}}
+  {{< article link="/foundation/mission-statement/" >}}
+  {{< article link="/foundation/core-principles/" >}}
+  {{< article link="/foundation/position-statements/" >}}
+  {{< article link="/projects/governance/" >}}
+{{< /div >}}
 
 ## What We Believe
 
-{{< article link="/articles/independent-technology/" >}}
-{{< article link="/articles/why-digital-sovereignty-matters/" >}}
-{{< article link="/articles/arguments-against-centralization/" >}}
+{{< div class="flex flex-col gap-10" >}}
+  {{< article link="/articles/independent-technology/" >}}
+  {{< article link="/articles/why-digital-sovereignty-matters/" >}}
+  {{< article link="/articles/arguments-against-centralization/" >}}
+{{< /div >}} 

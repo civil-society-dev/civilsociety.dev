@@ -1,6 +1,6 @@
 ---
 title: "Software Development: Building Digital Infrastructure for Civil Society"
-date: 202-01-15
+date: 2025-01-15
 ---
 
 ## Introduction
