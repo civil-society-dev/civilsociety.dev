@@ -1,6 +1,8 @@
 ---
 title: "Linux: The Operating System for Digital Sovereignty"
 date: 2025-01-15
+featureImageCaption: "Credit: Frank Karlitschek. 2015-10-04. CC. \"A portrait of Richard Stallman that I made during the 30 years FSF party in Boston.\""
+summary: "Linux is more than just an operating system; it is a cornerstone of digital sovereignty for civil society organizations. This article explores how Linux empowers communities to reclaim control over their technology, ensuring independence, security, and adaptability in an increasingly centralized digital landscape."
 ---
 
 ## Introduction

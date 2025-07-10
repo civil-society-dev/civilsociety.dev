@@ -1,6 +1,7 @@
 ---
 title: The Importance of Independent Technology in Civil Society
 date: 2025-07-06
+summary: Independent technology is essential for civil society to thrive in the digital age. This essay explores the problems of centralization, the benefits of digital self-determination, and how we can build a more equitable and resilient digital future.
 ---
 
 ## Introduction

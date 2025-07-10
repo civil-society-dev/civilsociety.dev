@@ -1,6 +1,8 @@
 ---
 title: Arguments Against Centralization
 date: 2025-07-06
+featureImageCaption: "Photo by Chad Davis, licensed under Creative Commons Attribution 2.0 (CC BY 2.0): https://www.flickr.com/photos/146321178@N05/49062863796. License link: https://creativecommons.org/licenses/by/2.0/"
+summary: While centralization can offer certain efficiencies and conveniences, we believes that the current level of concentration poses fundamental threats to individual autonomy, community resilience, and democratic governance. This resource provides evidence-based arguments that can be used in advocacy, education, and technology development contexts.
 ---
 
 ## Executive Summary

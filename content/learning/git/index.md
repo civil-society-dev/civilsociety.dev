@@ -1,6 +1,8 @@
 ---
 title: "Git: Distributed Version Control for Digital Independence"
 date: 2025-01-15
+featureImageCaption: Author unknown. (https://commons.wikimedia.org/wiki/File:Linus-Torvalds.jpeg), “Linus Torvalds”, https://creativecommons.org/licenses/by-sa/3.0/legalcode
+summary: "Git is more than just a version control system; it embodies principles of decentralization, resilience, and user sovereignty. This article explores how Git's distributed architecture aligns with the values of civil society organizations, enabling them to maintain control over their digital infrastructure."
 ---
 
 ## Introduction

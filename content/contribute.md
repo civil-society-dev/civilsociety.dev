@@ -1,5 +1,10 @@
 ---
 title: Contribute
+summary: "Join us in building a strong technical foundation for civil society. Learn how you can contribute through donations, volunteering, and community engagement."
+date: 2025-01-15
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 
 {{< lead >}}

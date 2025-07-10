@@ -1,6 +1,8 @@
 ---
 title: "Language Models: Understanding AI in the Context of Civil Society"
 date: 2025-01-15
+featureImageCaption: "dvgodoy (https://commons.wikimedia.org/wiki/file:Transformer,-full-architecture.png), 'Transformer, full architecture', https://creativecommons.org/licenses/by/4.0/legalcode"
+summary: "Language models are reshaping how we interact with technology, but they also raise critical questions about control, transparency, and the future of human agency. This article explores language models through the lens of civil society values, examining their implications for digital sovereignty and how organizations can navigate this complex landscape."
 ---
 
 ## Introduction

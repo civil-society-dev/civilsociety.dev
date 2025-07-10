@@ -4,7 +4,6 @@ heroStyle: background
 showDate: false
 showWordCount: false
 showReadingTime: false
-showTableOfContents: false
 aliases:
 - /foundation/
 ---

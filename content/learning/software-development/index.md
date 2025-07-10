@@ -1,6 +1,8 @@
 ---
 title: "Software Development: Building Digital Infrastructure for Civil Society"
 date: 2025-01-15
+featureImageCaption: Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/woman-wearing-black-t-shirt-holding-white-computer-keyboard-YK0HPwWDJ1I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+summary: "Software development is a critical aspect of civil society's digital sovereignty. This article explores how development practices, tools, and approaches can either reinforce dependency or enable sovereignty, emphasizing the importance of building independent, adaptable, and resilient software systems."
 ---
 
 ## Introduction

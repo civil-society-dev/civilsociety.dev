@@ -1,6 +1,8 @@
 ---
 title: "The Internet: Infrastructure for Civil Society"
 date: 2025-01-15
+featureImageCaption: ITU. https://bbmaps.itu.int/bbmaps/. Captured 2025-07-09.
+summary: The Internet stands as one of humanity's most transformative technological achievements, connecting billions of people and fundamentally reshaping how we communicate, learn, organize, and participate in public life.
 ---
 
 ## Introduction
