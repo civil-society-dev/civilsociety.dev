@@ -1,6 +1,7 @@
 ---
 title: "Open Source: The Foundation of Digital Freedom"
 date: 2025-01-15
+featureImageCaption: "Credit: Frank Karlitschek. 2015-10-04. CC. \"A portrait of Richard Stallman that I made during the 30 years FSF party in Boston.\""
 summary: "Open source is more than just a software development model; it is a philosophy that empowers individuals and communities to reclaim control over their digital lives. This article explores the principles of open source, its significance for civil society, and how it enables digital autonomy in an increasingly centralized tech landscape."
 ---
 

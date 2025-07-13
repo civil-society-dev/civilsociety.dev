@@ -29,6 +29,7 @@ googleAnalytics = "G-606W7SWX5E"
   category = "categories"
   author = "authors"
   series = "series"
+  person = "people"
 
 [sitemap]
   changefreq = 'daily'

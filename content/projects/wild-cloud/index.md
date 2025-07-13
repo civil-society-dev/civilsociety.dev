@@ -1,6 +1,8 @@
 ---
 title: Wild Cloud
 date: 2025-07-06
+alias: 
+- /projects/
 ---
 
 Wild Cloud is the Civil Society Technology Foundation's reference implementation for personal and organizational self-hosted infrastructure. This project empowers individuals and organizations to run their own digital services without dependency on centralized corporate platforms.

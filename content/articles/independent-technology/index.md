@@ -2,6 +2,7 @@
 title: The Importance of Independent Technology in Civil Society
 date: 2025-07-06
 summary: Independent technology is essential for civil society to thrive in the digital age. This essay explores the problems of centralization, the benefits of digital self-determination, and how we can build a more equitable and resilient digital future.
+featureImageCaption: "Photo by <a href=\"https://unsplash.com/@sahrulfikrilaitupa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Sahrul Laitupa</a> on <a href=\"https://unsplash.com/photos/a-young-man-sitting-at-a-desk-with-headphones-on-64ONLGrc0HQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>"
 ---
 
 ## Introduction
@@ -174,7 +175,7 @@ The path we choose with AI—toward further centralization or toward democratiza
 
 ## Case Study: Wild Cloud
 
-The Civil Society Technology Foundation's Wild Cloud project exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society organizations can regain digital sovereignty through practical, accessible tools.
+The Civil Society Technology Foundation's [Wild Cloud project](/projects/wild-cloud/) exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society organizations can regain digital sovereignty through practical, accessible tools.
 
 Wild Cloud provides:
 

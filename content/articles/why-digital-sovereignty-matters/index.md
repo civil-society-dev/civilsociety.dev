@@ -2,6 +2,7 @@
 title: Why Digital Sovereignty Matters
 date: 2025-07-06
 summary: Digital sovereignty is essential for individuals, communities, and civil society organizations to maintain control over their digital lives. This article explores the importance of digital sovereignty, the threats it faces, and practical steps toward achieving it.
+featureImageCaption: "Photo by <a href=\"https://unsplash.com/@lemonvlad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Vladislav Klapin</a> on <a href=\"https://unsplash.com/photos/assorted-flag-YeO44yVTl20?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>"
 ---
 
 ## What Is Digital Sovereignty?
