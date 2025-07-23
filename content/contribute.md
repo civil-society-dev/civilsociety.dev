@@ -11,7 +11,7 @@ showReadingTime: false
 Help us create a strong and lasting technical foundation for Civil Society.
 {{< /lead >}}
 
-The Civil Society Technology Foundation is a community-driven organization that relies on the support of individuals and organizations who share our vision of digital sovereignty and independent technology. There are many ways you can contribute to our mission:
+The Civil Society Technology Foundation is a community-driven organization that relies on the support of individuals and organizations who share our vision of digital self-determination and independent technology. There are many ways you can contribute to our mission:
 
 ### 1. Financial Contributions
 
@@ -25,11 +25,11 @@ We welcome volunteers who can contribute their skills and expertise to our proje
 
 ### 3. Spread the Word
 
-Share our mission and resources with your network. Help raise awareness about the importance of digital sovereignty and independent technology for civil society. Follow us on social media, share our content, and engage in discussions about these critical issues.
+Share our mission and resources with your network. Help raise awareness about the importance of digital self-determination and independent technology for civil society. Follow us on social media, share our content, and engage in discussions about these critical issues.
 
 ### 4. Collaborate with Us
 
-We are always looking for partnerships with like-minded organizations and individuals. If you have a project or initiative that aligns with our mission, let's explore how we can work together to advance digital sovereignty and empower civil society.
+We are always looking for partnerships with like-minded organizations and individuals. If you have a project or initiative that aligns with our mission, let's explore how we can work together to advance digital self-determination and empower civil society.
 
 ### 5. Join Our Community
 
@@ -37,11 +37,11 @@ Engage with us through our community forums, mailing lists, and events. Share yo
 
 ### 6. Stay Informed
 
-Subscribe to our newsletter and follow our blog to stay updated on our latest projects, resources, and events. Being informed is the first step toward active participation in the movement for digital sovereignty.
+Subscribe to our newsletter and follow our blog to stay updated on our latest projects, resources, and events. Being informed is the first step toward active participation in the movement for digital self-determination.
 
 ### 7. Advocate for Policy Change
 
-Engage in advocacy efforts to promote policies that support digital sovereignty and independent technology. Your voice can help influence decision-makers and raise awareness about the importance of these issues.
+Engage in advocacy efforts to promote policies that support digital self-determination and independent technology. Your voice can help influence decision-makers and raise awareness about the importance of these issues.
 
 ### 8. Donate Your Expertise
 
@@ -49,5 +49,5 @@ If you have specialized knowledge or skills that could benefit our projects, con
 
 ### 9. Become a Member
 
-Join the Civil Society Technology Foundation as a member to support our mission and gain access to exclusive resources, events, and networking opportunities. Your membership helps us strengthen the community and advance our work in digital sovereignty.
+Join the Civil Society Technology Foundation as a member to support our mission and gain access to exclusive resources, events, and networking opportunities. Your membership helps us strengthen the community and advance our work in digital self-determination.
 

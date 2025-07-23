@@ -3,4 +3,4 @@ title: "Learning"
 cardView: true
 ---
 
-Resources for building technical skills and understanding digital sovereignty.
+Resources for building technical skills and understanding digital self-determination.

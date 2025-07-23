@@ -1,13 +1,13 @@
 ---
-title: "Linux: The Operating System for Digital Sovereignty"
+title: "Linux: The Operating System for Digital Self-Determination"
 date: 2025-01-15
 featureImageCaption: "Photo by <a href=\"https://unsplash.com/@wwarby?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">William Warby</a> on <a href=\"https://unsplash.com/photos/a-penguin-is-standing-on-a-rocky-area-mlDxrRUuDxc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>"
-summary: "Linux is more than just an operating system; it is a cornerstone of digital sovereignty for civil society organizations. This article explores how Linux empowers communities to reclaim control over their technology, ensuring independence, security, and adaptability in an increasingly centralized digital landscape."
+summary: "Linux is more than just an operating system; it is a cornerstone of digital self-determination for civil society organizations. This article explores how Linux empowers communities to reclaim control over their technology, ensuring independence, security, and adaptability in an increasingly centralized digital landscape."
 ---
 
 ## Introduction
 
-Linux stands as one of the most remarkable achievements in the history of computing—an operating system built by a global community, freely available to all, and powering everything from the smallest embedded devices to the largest supercomputers. For civil society organizations seeking digital sovereignty, Linux represents both a practical tool and a powerful symbol of what's possible when technology development is driven by community needs rather than corporate interests.
+Linux stands as one of the most remarkable achievements in the history of computing—an operating system built by a global community, freely available to all, and powering everything from the smallest embedded devices to the largest supercomputers. For civil society organizations seeking digital self-determination, Linux represents both a practical tool and a powerful symbol of what's possible when technology development is driven by community needs rather than corporate interests.
 
 In this article, we explore what Linux is, why it matters for civil society, and how it provides the foundation for technological independence in an increasingly controlled digital landscape.
 
@@ -43,7 +43,7 @@ These characteristics reflect Linux's organic development process, where improve
 
 ## Why Linux Matters for Civil Society
 
-For civil society organizations seeking digital sovereignty, Linux provides several unique benefits:
+For civil society organizations seeking digital self-determination, Linux provides several unique benefits:
 
 ### 1. Freedom from Corporate Control
 
@@ -93,9 +93,9 @@ Linux's accessibility removes barriers to participation:
 
 This accessibility aligns with civil society's commitment to inclusion and equitable access to technological tools.
 
-### 5. Sovereignty and Control
+### 5. Self-Determination and Control
 
-Perhaps most importantly, Linux enables genuine sovereignty over computing infrastructure:
+Perhaps most importantly, Linux enables genuine self-determination over computing infrastructure:
 
 - Organizations can inspect and modify any aspect of their systems
 - Technical knowledge builds internal capacity rather than dependency
@@ -103,7 +103,7 @@ Perhaps most importantly, Linux enables genuine sovereignty over computing infra
 - Systems can be fully understood rather than treated as black boxes
 - Community governance replaces corporate decision-making
 
-This sovereignty is not just a technical preference but essential for organizations that need to control their own digital infrastructure.
+This self-determination is not just a technical preference but essential for organizations that need to control their own digital infrastructure.
 
 ## Linux Distributions for Civil Society
 
@@ -168,7 +168,7 @@ The Civil Society Technology Foundation can provide guidance on distribution sel
 
 ## Beyond the Operating System: The Linux Ecosystem
 
-Linux has inspired a broader ecosystem of tools and practices that support digital sovereignty:
+Linux has inspired a broader ecosystem of tools and practices that support digital self-determination:
 
 - **Container technologies** like Docker and Kubernetes (themselves Linux-based) enable flexible, portable deployments
 - **Configuration management** tools allow systematic administration of multiple systems
@@ -196,7 +196,7 @@ By providing a free, adaptable foundation, Linux enables these initiatives to fo
 As digital technology becomes increasingly central to all aspects of civic life, the relationship between Linux and civil society grows more important. Several emerging trends highlight this connection:
 
 - **Edge computing** brings computation closer to communities, often using Linux on small devices
-- **Software sovereignty** movements advocate for public control of critical code
+- **Software self-determination** movements advocate for public control of critical code
 - **Digital commons** initiatives build shared technological resources
 - **Community cloud** approaches offer alternatives to corporate infrastructure
 - **Digital public infrastructure** creates essential services outside market logic
@@ -205,7 +205,7 @@ In each of these areas, Linux provides a foundation that enables community contr
 
 ## Conclusion
 
-For civil society organizations committed to digital sovereignty, Linux represents both practical infrastructure and a compelling vision. By choosing Linux, organizations assert control over their fundamental computing environment, build internal capacity rather than dependency, and join a global community developing technology for human needs rather than market demands.
+For civil society organizations committed to digital self-determination, Linux represents both practical infrastructure and a compelling vision. By choosing Linux, organizations assert control over their fundamental computing environment, build internal capacity rather than dependency, and join a global community developing technology for human needs rather than market demands.
 
 The Civil Society Technology Foundation recognizes Linux as essential infrastructure for robust civil society in the digital age. By building on this foundation, organizations can create resilient, independent systems that genuinely serve their missions and communities.
 

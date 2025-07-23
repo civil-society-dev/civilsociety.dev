@@ -2,14 +2,14 @@
 title: "Software Development: Building Digital Infrastructure for Civil Society"
 date: 2025-01-15
 featureImageCaption: Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/woman-wearing-black-t-shirt-holding-white-computer-keyboard-YK0HPwWDJ1I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-summary: "Software development is a critical aspect of civil society's digital sovereignty. This article explores how development practices, tools, and approaches can either reinforce dependency or enable sovereignty, emphasizing the importance of building independent, adaptable, and resilient software systems."
+summary: "Software development is a critical aspect of civil society's digital self-determination. This article explores how development practices, tools, and approaches can either reinforce dependency or enable self-determination, emphasizing the importance of building independent, adaptable, and resilient software systems."
 ---
 
 ## Introduction
 
 Software development is not merely a technical activity but a form of infrastructure building with profound implications for human freedom and agency. As digital systems increasingly mediate civic life, the ability to create, modify, and control software becomes essential for civil society's independence and effectiveness.
 
-In this article, we explore software development through the lens of civil society values—examining how development practices, tools, and approaches can either reinforce dependency or enable sovereignty. We'll address both practical aspects of creating software and the broader implications of development choices for organizational autonomy and mission.
+In this article, we explore software development through the lens of civil society values—examining how development practices, tools, and approaches can either reinforce dependency or enable self-determination. We'll address both practical aspects of creating software and the broader implications of development choices for organizational autonomy and mission.
 
 ## Why Software Development Matters for Civil Society
 
@@ -50,9 +50,9 @@ Software development builds crucial organizational capabilities:
 
 These capacities extend beyond software itself to strengthen overall organizational resilience.
 
-## Sovereignty-Respecting Development Practices
+## Self-Determination-Respecting Development Practices
 
-Software development practices can either enhance or undermine digital sovereignty. We advocate for approaches that:
+Software development practices can either enhance or undermine digital self-determination. We advocate for approaches that:
 
 ### 1. Focus on Simplicity and Maintainability
 
@@ -123,7 +123,7 @@ This purpose-driven approach ensures technology serves human needs rather than t
 Tool selection should balance multiple considerations:
 
 1. **Community health**: Is there an active, diverse community supporting the tool?
-2. **Sovereignty implications**: Does the tool create new dependencies?
+2. **Self-determination implications**: Does the tool create new dependencies?
 3. **Learning curve**: Can your team develop and maintain expertise?
 4. **Longevity**: Is the tool likely to remain viable over your project's lifetime?
 5. **Resource requirements**: Does the tool work within your constraints?
@@ -261,7 +261,7 @@ Programming languages and frameworks establish fundamental constraints:
 
 ### Database and Storage Technologies
 
-Data storage choices have significant sovereignty implications:
+Data storage choices have significant self-determination implications:
 
 **Key considerations**:
 
@@ -305,7 +305,7 @@ Several examples illustrate effective approaches to civil society software devel
 
 ### Case Study 1: SecureDrop
 
-SecureDrop, an anonymous whistleblowing platform, demonstrates several sovereignty-respecting practices:
+SecureDrop, an anonymous whistleblowing platform, demonstrates several self-determination-respecting practices:
 
 - **Air-gapped architecture** protects sources even from sophisticated adversaries
 - **Clear documentation** enables independent verification and deployment
@@ -432,17 +432,17 @@ The local-first approach prioritizes user control while enabling collaboration:
 - Data lives primarily on user devices, not in the cloud
 - Synchronization happens peer-to-peer when possible
 - Applications work offline by default
-- User sovereignty over data is a foundational principle
+- User self-determination over data is a foundational principle
 - Collaboration happens without centralized control
 
-This paradigm aligns closely with civil society's sovereignty principles.
+This paradigm aligns closely with civil society's self-determination principles.
 
 ### 2. Small-Scale Machine Learning
 
 Machine learning is becoming accessible to smaller organizations:
 
 - Pre-trained models reduce resource requirements
-- Federated approaches preserve data sovereignty
+- Federated approaches preserve data self-determination
 - On-device inference enables privacy-preserving intelligence
 - Transfer learning makes specialized applications viable
 - Community datasets enable alternatives to corporate AI
@@ -477,6 +477,6 @@ These approaches make software development accessible to more civil society orga
 
 Software development for civil society is not merely about creating tools but about building infrastructure for human freedom and agency. The technical choices organizations make have profound implications for who controls the digital systems mediating civic participation.
 
-The Civil Society Technology Foundation advocates for development approaches that prioritize sovereignty, resilience, and community control—recognizing that software created with these values will better serve civil society's mission than technologies that create new dependencies or vulnerabilities.
+The Civil Society Technology Foundation advocates for development approaches that prioritize self-determination, resilience, and community control—recognizing that software created with these values will better serve civil society's mission than technologies that create new dependencies or vulnerabilities.
 
 By building software with these principles in mind, civil society organizations don't just solve immediate problems but contribute to a digital ecosystem that reinforces rather than undermines human agency and collective action—the foundation upon which civil society itself rests.

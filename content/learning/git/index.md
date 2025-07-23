@@ -2,14 +2,14 @@
 title: "Git: Distributed Version Control for Digital Independence"
 date: 2025-01-15
 featureImageCaption: Author unknown. (https://commons.wikimedia.org/wiki/File:Linus-Torvalds.jpeg), “Linus Torvalds”, https://creativecommons.org/licenses/by-sa/3.0/legalcode
-summary: "Git is more than just a version control system; it embodies principles of decentralization, resilience, and user sovereignty. This article explores how Git's distributed architecture aligns with the values of civil society organizations, enabling them to maintain control over their digital infrastructure."
+summary: "Git is more than just a version control system; it embodies principles of decentralization, resilience, and user self-determination. This article explores how Git's distributed architecture aligns with the values of civil society organizations, enabling them to maintain control over their digital infrastructure."
 ---
 
 ## Introduction
 
-Version control systems are the backbone of modern software development, enabling collaboration, preserving history, and managing complexity. Among these tools, Git stands apart—not just as the most widely used version control system, but as a technology that fundamentally aligns with principles of decentralization, resilience, and user sovereignty.
+Version control systems are the backbone of modern software development, enabling collaboration, preserving history, and managing complexity. Among these tools, Git stands apart—not just as the most widely used version control system, but as a technology that fundamentally aligns with principles of decentralization, resilience, and user self-determination.
 
-For civil society organizations, Git represents much more than a development tool. It embodies a different way of thinking about collaboration—one based on distributed trust, transparent history, and resilience against centralized control. In this article, we explore what Git is, how it works, and why its approach to distributed collaboration matters for organizations committed to digital sovereignty.
+For civil society organizations, Git represents much more than a development tool. It embodies a different way of thinking about collaboration—one based on distributed trust, transparent history, and resilience against centralized control. In this article, we explore what Git is, how it works, and why its approach to distributed collaboration matters for organizations committed to digital self-determination.
 
 ## What Is Git?
 
@@ -85,7 +85,7 @@ Git's distributed nature means:
 
 In contexts where infrastructure may be unreliable or subject to interference, this resilience is invaluable.
 
-### 2. Sovereignty and Control
+### 2. Self-Determination and Control
 
 Git provides complete control over:
 
@@ -94,7 +94,7 @@ Git provides complete control over:
 - How contributions are reviewed and incorporated
 - What external dependencies are included
 
-This sovereignty means organizations aren't dependent on the policies or availability of any particular service provider.
+This self-determination means organizations aren't dependent on the policies or availability of any particular service provider.
 
 ### 3. Transparency and Accountability
 
@@ -254,7 +254,7 @@ By distributing repositories across multiple participants, these organizations e
 
 ## Conclusion
 
-Git represents more than just a tool—it embodies an approach to collaboration built on principles that civil society defends: distributed authority, transparent history, resilient systems, and user sovereignty. By adopting Git and its associated practices, organizations don't just improve their technical workflows; they align their operational methods with their values.
+Git represents more than just a tool—it embodies an approach to collaboration built on principles that civil society defends: distributed authority, transparent history, resilient systems, and user self-determination. By adopting Git and its associated practices, organizations don't just improve their technical workflows; they align their operational methods with their values.
 
 The Civil Society Technology Foundation recognizes Git as a foundational technology for independent civil society infrastructure, enabling transparent collaboration without creating new dependencies or vulnerabilities.
 

@@ -39,9 +39,9 @@ As digital systems become central to civic life, governments have expanded their
 
 _Government regulatory capture_ of technology often reinforces corporate power rather than constraining it. Complex regulatory frameworks crafted with industry input frequently protect incumbents while raising barriers to entry for smaller, independent alternatives.
 
-Public services increasingly rely on proprietary technologies, creating long-term vulnerabilities within _overdependent relationships_. When governments outsource core functions to proprietary platforms, they sacrifice sovereignty and create risky dependencies that undermine democratic accountability.
+Public services increasingly rely on proprietary technologies, creating long-term vulnerabilities within _overdependent relationships_. When governments outsource core functions to proprietary platforms, they sacrifice self-determination and create risky dependencies that undermine democratic accountability.
 
-_Mass state surveillance_ undermines civil liberties and democratic processes. The capabilities revealed by Edward Snowden and subsequent whistleblowers demonstrate how digital infrastructure has enabled unprecedented monitoring of citizens, activists, and journalists without appropriate democratic oversight.
+_Mass state surveillance_ undermines civil liberties and democratic processes. The capabilities revealed by Edward Snowden and subsequent whistle-blowers demonstrate how digital infrastructure has enabled unprecedented monitoring of citizens, activists, and journalists without appropriate democratic oversight.
 
 National security justifications often mask anti-democratic control mechanisms. The post-9/11 expansion of digital surveillance, the current expansion of surveillance technologies in response to civil protests of immigration enforcement, and the ongoing use of security arguments to justify technological control demonstrate how nominal protection can lead to substantial harm.
 
@@ -73,7 +73,7 @@ In response to these challenges, we need a vision of digital self-determinationâ
 
 Independent technology is guided by principles that prioritize human agency and community well-being:
 
-- **User Sovereignty**: Control over personal data and computing environments must rest with users. People should own their data, determine how it's used, and maintain authority over the devices and services they rely on. Consent should be meaningful, informed, and revocable.
+- **User Self-determination**: Control over personal data and computing environments must rest with users. People should own their data, determine how it's used, and maintain authority over the devices and services they rely on. Consent should be meaningful, informed, and revocable.
 
 - **Open Systems**: Technology should be transparent, modifiable, and freely available. Open-source software, open standards, and open hardware create the conditions for inspection, improvement, and adaptation by communities rather than just original creators.
 
@@ -175,13 +175,13 @@ The path we choose with AIâ€”toward further centralization or toward democratiza
 
 ## Case study: Wild Cloud
 
-The Civil Society Technology Foundation's [Wild Cloud project](/projects/wild-cloud/) exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society can regain digital sovereignty through practical, accessible tools.
+The Civil Society Technology Foundation's [Wild Cloud project](/projects/wild-cloud/) exemplifies the principles of independent technology in practice. This reference implementation demonstrates how civil society can regain digital self-determination through practical, accessible tools.
 
 Wild Cloud enables individuals, communities, and organizations to run their own email, calendar, file storage, website, and collaboration tools on infrastructure they control, reducing dependency on corporate platforms. Services under user control ensure sensitive information remains protected from surveillance and exploitation.
 
 Despite the complexity of the underlying systems, simplified deployment tools make it feasible for organizations with limited technical capacity to set up and maintain their own infrastructure. A network of practitioners provides documentation, troubleshooting assistance, and ongoing development, ensuring that organizations aren't alone in their journey toward digital self-determination.
 
-Wild Cloud services support open standards and federation protocols, allowing organizations to communicate with others while maintaining their autonomy and control. This practical approach to digital sovereignty demonstrates that independence from corporate platforms is not merely theoretical but achievable with current technology and modest resources. By making these tools more accessible and providing support for their adoption, we create pathways to broader digital self-determination.
+Wild Cloud services support open standards and federation protocols, allowing organizations to communicate with others while maintaining their autonomy and control. This practical approach to digital self-determination demonstrates that independence from corporate platforms is not merely theoretical but achievable with current technology and modest resources. By making these tools more accessible and providing support for their adoption, we create pathways to broader digital self-determination.
 
 ## A call to action
 

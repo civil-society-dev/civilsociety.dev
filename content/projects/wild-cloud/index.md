@@ -23,14 +23,13 @@ The Wild Cloud project aims to start you with a simple self-hosted cloud solutio
 
 Wild Cloud embodies the Civil Society Technology Foundation's [core principles](/about/#principles), which include:
 
-- **Sovereignty by Design**: Users control their data and computing environment.
+- **Self-determination by Design**: Users control their data and computing environment.
 - **Open Source, Always**: All components are free to use, study, modify, and share.
 - **Self-Hosting Infrastructure**: Direct control reduces dependency and vulnerability.
 - **Transparent Governance**: All components have clear, accountable governance.
-- **Forkability is Freedom**: Any component can be replaced or modified as needed.
 - **Practical Autonomy**: Infrastructure that users can understand and maintain.
 
-By providing this reference implementation, we demonstrate that digital sovereignty is not merely theoretical but practically achievable with current technology and modest resources.
+By providing this reference implementation, we demonstrate that digital self-determination is not merely theoretical but practically achievable with current technology and modest resources.
 
 ## Architecture
 

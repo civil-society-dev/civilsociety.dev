@@ -2,14 +2,14 @@
 title: "Language Models: Understanding AI in the Context of Civil Society"
 date: 2025-01-15
 featureImageCaption: "dvgodoy (https://commons.wikimedia.org/wiki/file:Transformer,-full-architecture.png), 'Transformer, full architecture', https://creativecommons.org/licenses/by/4.0/legalcode"
-summary: "Language models are reshaping how we interact with technology, but they also raise critical questions about control, transparency, and the future of human agency. This article explores language models through the lens of civil society values, examining their implications for digital sovereignty and how organizations can navigate this complex landscape."
+summary: "Language models are reshaping how we interact with technology, but they also raise critical questions about control, transparency, and the future of human agency. This article explores language models through the lens of civil society values, examining their implications for digital self-determination and how organizations can navigate this complex landscape."
 ---
 
 ## Introduction
 
 Large Language Models (LLMs) have rapidly transformed from research curiosities to everyday tools. These systems, trained on vast corpora of human-written text, have demonstrated remarkable capabilities in understanding and generating human language, powering applications from automated assistants to content creation tools. For civil society organizations, these technologies represent both opportunity and challenge—tools that can amplify effectiveness and reach, but also systems that raise profound questions about centralization, control, and the future of human agency.
 
-In this article, we examine language models through the lens of civil society values, exploring how these technologies work, their implications for digital sovereignty, and pathways to harnessing their benefits while minimizing risks to autonomy and independence.
+In this article, we examine language models through the lens of civil society values, exploring how these technologies work, their implications for digital self-determination, and pathways to harnessing their benefits while minimizing risks to autonomy and independence.
 
 ## What Are Language Models?
 
@@ -65,7 +65,7 @@ These capabilities can be particularly valuable for organizations with limited r
 
 ### Critical Concerns
 
-At the same time, language models raise serious concerns for organizations committed to digital sovereignty:
+At the same time, language models raise serious concerns for organizations committed to digital self-determination:
 
 1. **Centralization of Power**: The most capable models require resources only available to large corporations or governments
 2. **Data Extraction Risks**: API-based access creates dependency and potential surveillance
@@ -77,13 +77,13 @@ At the same time, language models raise serious concerns for organizations commi
 
 These concerns connect directly to civil society's core focus on distributed power, accountability, and human agency.
 
-## Sovereignty Considerations
+## Self-Determination Considerations
 
-For organizations committed to digital sovereignty, language models present particular challenges:
+For organizations committed to digital self-determination, language models present particular challenges:
 
-### The Sovereignty Paradox
+### The Self-Determination Paradox
 
-The most capable language models currently exist in a paradigm that conflicts with sovereignty principles:
+The most capable language models currently exist in a paradigm that conflicts with self-determination principles:
 
 - Trained on massive datasets that no individual organization can replicate
 - Requiring computational resources beyond most civil society organizations
@@ -92,9 +92,9 @@ The most capable language models currently exist in a paradigm that conflicts wi
 
 This creates a paradox: using these tools can advance an organization's mission while simultaneously reinforcing dependency on centralized technological infrastructure.
 
-### Sovereignty-Respecting Approaches
+### Self-Determination-Respecting Approaches
 
-Several approaches exist for using language models while maintaining alignment with sovereignty principles:
+Several approaches exist for using language models while maintaining alignment with self-determination principles:
 
 1. **Self-hosted smaller models**: Running smaller but still capable models on local infrastructure
 2. **Federated improvement**: Pooling resources to improve open models without centralizing data
@@ -118,7 +118,7 @@ Before implementing language model technologies, organizations should evaluate:
 4. **Alignment Check**: Does the model's training and operation align with the organization's values?
 5. **Resource Analysis**: What local capabilities exist to understand, deploy, and maintain the system?
 
-This assessment helps determine the appropriate balance between capability and sovereignty for each use case.
+This assessment helps determine the appropriate balance between capability and self-determination for each use case.
 
 ### Recommended Approaches by Context
 
@@ -189,7 +189,7 @@ A human rights organization uses language models to help draft, organize, and tr
 - Cloud APIs for translation of already-public information
 - Clear data policies regarding what can be sent to external services
 
-This hybrid approach balances practical needs with sovereignty concerns.
+This hybrid approach balances practical needs with self-determination concerns.
 
 ### Scenario 2: Community Legal Aid
 
@@ -200,7 +200,7 @@ A legal assistance organization develops a system to help explain legal concepts
 - Create specialized interfaces for common questions
 - Maintain human review of all substantive advice
 
-This sovereignty-first approach prioritizes control and alignment with the organization's values.
+This self-determination-first approach prioritizes control and alignment with the organization's values.
 
 ### Scenario 3: Environmental Data Analysis
 
@@ -211,7 +211,7 @@ A climate advocacy group uses language models to analyze environmental impact re
 - Implement clear boundaries on sensitive strategic discussions
 - Contribute to open model development in their domain
 
-This pragmatic approach uses available tools while working toward greater sovereignty.
+This pragmatic approach uses available tools while working toward greater self-determination.
 
 ## The Future Landscape
 
@@ -226,14 +226,14 @@ Models continue to decrease in size while maintaining capabilities:
 - Specialized models outperform general models in specific domains
 - Browser-based models enable client-side processing
 
-These trends make sovereignty-respecting approaches increasingly viable.
+These trends make self-determination-respecting approaches increasingly viable.
 
 ### Decentralized Research and Development
 
 Alternatives to centralized AI development are emerging:
 
 - Research collaboratives pooling resources for model development
-- Federated learning approaches that preserve data sovereignty
+- Federated learning approaches that preserve data self-determination
 - Community-governed models with transparent decision making
 - Regional training efforts creating linguistically diverse models
 
@@ -263,12 +263,12 @@ For organizations navigating language model adoption, we recommend the following
 7. **Document and share learnings**: Help build collective knowledge about responsible use
 8. **Regularly reassess**: Technology and best practices are evolving rapidly
 
-These guidelines help organizations balance practical benefit with long-term sovereignty.
+These guidelines help organizations balance practical benefit with long-term self-determination.
 
 ## Conclusion
 
 Language models represent a profound technological shift with particularly complex implications for civil society. While these tools offer significant benefits for organizations with limited resources, they also present risks of creating new dependencies and reinforcing centralization of technological power.
 
-The Civil Society Technology Foundation advocates for a sovereignty-respecting approach to language models—one that leverages their benefits while working toward a future where such capabilities are available through community-governed, transparent infrastructure. This means making thoughtful choices today about how and when to use these tools, while supporting the development of alternatives that better align with civil society values.
+The Civil Society Technology Foundation advocates for a self-determination-respecting approach to language models—one that leverages their benefits while working toward a future where such capabilities are available through community-governed, transparent infrastructure. This means making thoughtful choices today about how and when to use these tools, while supporting the development of alternatives that better align with civil society values.
 
 The path forward is neither uncritical adoption nor blanket rejection, but rather principled engagement that shapes these technologies to serve human agency, community autonomy, and distributed power—the core values that define civil society itself.

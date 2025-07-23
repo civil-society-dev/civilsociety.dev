@@ -38,7 +38,7 @@ title: "Welcome to CSTF!"
 
 <div class="flex flex-col gap-4 pt-16" >
   {{< article link="/articles/independent-technology/" >}}
-  {{< article link="/articles/why-digital-sovereignty-matters/" >}}
+  {{< article link="/articles/digital-self-determination/" >}}
   {{< article link="/articles/arguments-against-centralization/" >}}
 </div>
 
