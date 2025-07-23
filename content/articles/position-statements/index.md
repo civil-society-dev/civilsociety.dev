@@ -2,6 +2,8 @@
 title: Position Statements
 date: 2025-07-06
 weight: 60
+featureImageCaption: "Photo by <a href=\"https://unsplash.com/@nasa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">NASA</a> on <a href=\"https://unsplash.com/photos/satellite-view-of-earths-surface-_SFJhRPzJHs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>"
+      
 ---
 
 The Civil Society Technology Foundation (CSTF) holds the following positions regarding technology, digital rights, and civil society. These statements represent our core beliefs and guide our work.

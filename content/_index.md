@@ -2,16 +2,27 @@
 title: "Welcome to CSTF!"
 ---
 
-<!-- Light mode image -->
-<div class="dark:hidden">
-  <img src="/cstf-full-logo.svg" alt="CSTF" class="w-84 mx-auto" />
-</div>
+<header>
+  <!-- Light mode image -->
+  <div class="dark:hidden">
+    {{<figure
+      src="/img/cstf-full-logo.svg"
+      alt="CSTF"
+      nozoom="true"
+      class="w-84 mx-auto"
+    >}}
+  </div>
 
-<!-- Dark mode image -->
-<div class="hidden dark:block">
-  <img src="/cstf-full-logo-light.svg" alt="CSTF" class="w-84 mx-auto" />
-</div>
-
+  <!-- Dark mode image -->
+  <div class="hidden dark:block">
+    {{<figure
+      src="/img/cstf-full-logo-light.svg"
+      alt="CSTF"
+      nozoom="true"
+      class="w-84 mx-auto"
+    >}}
+  </div>
+</header>
 
 <div class="prose dark:prose-invert max-w-3xl mx-auto pt-8">
 
@@ -26,8 +37,8 @@ title: "Welcome to CSTF!"
 </div>
 
 <div class="flex flex-col gap-4 pt-16" >
-  {{< article link="/articles/independent-technology/" class="shadow-lg" >}}
-  {{< article link="/articles/why-digital-sovereignty-matters/" class="shadow-lg" >}}
-  {{< article link="/articles/arguments-against-centralization/" class="shadow-lg" >}}
+  {{< article link="/articles/independent-technology/" >}}
+  {{< article link="/articles/why-digital-sovereignty-matters/" >}}
+  {{< article link="/articles/arguments-against-centralization/" >}}
 </div>
 

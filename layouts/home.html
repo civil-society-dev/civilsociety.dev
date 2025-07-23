@@ -1,10 +1,5 @@
 {{ define "main" }}
   <article class="h-full max-w-full flex flex-col items-center justify-center">
-    <header>
-      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
-        {{ partial "breadcrumbs.html" . }}
-      {{ end }}
-    </header>
     <section class="mt-6">
       {{ .Content }}
     </section>
